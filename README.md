@@ -1,7 +1,7 @@
 # 🍇 VitiVision: AI-Powered Viticulture Diagnostics
 
 ## 🏆 Project Highlight
-*   **Validation Accuracy:** **98.33%**
+*   **Validation Accuracy:** **96.33%**
 *   **Peak Accuracy:** **99.33%** (Achieved during epoch 6)
 *   **Detection Classes:** Grape Black Rot, Grape Esca (Black Measles), and Healthy Leaves
 
